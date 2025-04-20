@@ -4,6 +4,6 @@ This repository holds the code for a blank microservice that uses patio, rabbitm
 
 You can use this as basis for other gateway microservices.
 
-The example sends request to queue to be consumed by (Generic consumer)[https://github.com/lipesky/generic-fastapi-rabbitmq-consumer]
+The example sends request to queue to be consumed by [Generic consumer](https://github.com/lipesky/generic-fastapi-rabbitmq-consumer)
 
 Pull requests are welcome.
